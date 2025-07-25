@@ -36,5 +36,4 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`CREATED BY` [SUDHIR, SUMIT, MAHADEVI AND SHIVAM] | \
-         `DEPT:` [DEPT OF ELECTRONICS AND TELECOMMUNICATION]')
+    '`CREATED BY` [PRATIBHA]')
